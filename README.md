@@ -1,9 +1,9 @@
 # AVA1-Spotify-Popularity-Tracks
 Avaliação Prática – Análise de Faixas Musicais com a API do Spotify (Tracks)
 
-Disciplina: Análise Musical com Dados Digitais
-Ambiente: Google Colab + Python
-Fonte de Dados: https://api.spotify.com/v1/tracks
+- Disciplina: Análise Musical com Dados Digitais
+- Ambiente: Google Colab + Python
+- Fonte de Dados: https://api.spotify.com/v1/tracks
 
 ## Objetivo da Avaliação 
 Você deverá desenvolver um projeto em Python que:
