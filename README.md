@@ -1,4 +1,4 @@
-# AVA1-Spotify-Popularity-Tracks
+# Spotify Popularity Tracks
 Avaliação Prática – Análise de Faixas Musicais com a API do Spotify (Tracks)
 
 - Disciplina: Análise Musical com Dados Digitais
