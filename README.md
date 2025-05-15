@@ -33,11 +33,11 @@ Você deverá desenvolver um projeto em Python que:
 10. Visualizações: histogramas de duração e popularidade e gráfico de barras por classe de faixa
 
 ## Exemplo de estrutura esperada do DataFrame 
-Campos esperados: track_id | name | duration_min | popularity | album | release_year | classe_faixa 
-Definição do Target: classe_faixa 
-Target categórico com base em regras combinadas de duração e popularidade: 
-- Popular Longa → duração > 5 min e popularidade > 75 
-- Popular Curta → duração < 2 min e popularidade > 75 
-- Moderada Padrão → duração entre 2 e 5 min e popularidade entre 40 e 75 
-- Nicho Curta → duração < 2 min e popularidade < 40 
-- Nicho Longa → duração > 5 min e popularidade < 40
+- Campos esperados: track_id | name | duration_min | popularity | album | release_year | classe_faixa 
+- Definição do Target: classe_faixa 
+- Target categórico com base em regras combinadas de duração e popularidade: 
+   1. Popular Longa → duração > 5 min e popularidade > 75 
+   2. Popular Curta → duração < 2 min e popularidade > 75 
+   3. Moderada Padrão → duração entre 2 e 5 min e popularidade entre 40 e 75 
+   4. Nicho Curta → duração < 2 min e popularidade < 40 
+   5. Nicho Longa → duração > 5 min e popularidade < 40
